@@ -195,3 +195,5 @@ Front-End Developer & Accessibility Enthusiast
 
 # Output
 
+<img width="1699" height="1073" alt="Screenshot 2026-05-27 at 3 15 53 PM" src="https://github.com/user-attachments/assets/c98d3f36-28af-4202-b119-63327167603f" />
+
