@@ -11,7 +11,7 @@ The website is designed to provide a professional online portfolio experience wh
 The project demonstrates best practices in front-end development using semantic HTML5, CSS3, and accessibility-first design principles.
 
 ---
-
+ 
 # Features
 
 - Semantic HTML5 structure
